@@ -1,3 +1,1 @@
-content changed by dev1
-Content changed by DEV TWO
-VTEX modification2
+This is a training for the vtex interns
