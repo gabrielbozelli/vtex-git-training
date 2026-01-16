@@ -1,2 +1,3 @@
+content changed by dev1
 Content changed by DEV TWO
 VTEX modification2
